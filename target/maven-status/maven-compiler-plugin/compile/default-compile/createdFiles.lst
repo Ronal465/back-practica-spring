@@ -1,0 +1,17 @@
+com/back/practique/springboot/models/UserStatus.class
+com/back/practique/springboot/responses/IResponse.class
+com/back/practique/springboot/services/UserService.class
+com/back/practique/springboot/responses/Response.class
+com/back/practique/springboot/models/Role.class
+com/back/practique/springboot/responses/ResponseList.class
+com/back/practique/springboot/interfaces/User.class
+com/back/practique/springboot/controllers/RoleController.class
+com/back/practique/springboot/ApplicationConfigurationServiceApplication.class
+com/back/practique/springboot/repositories/RoleRepository.class
+com/back/practique/springboot/interfaces/Role.class
+com/back/practique/springboot/services/RoleService.class
+com/back/practique/springboot/repositories/UserRepository.class
+com/back/practique/springboot/interfaces/ControllerBasic.class
+com/back/practique/springboot/models/User.class
+com/back/practique/springboot/interfaces/ServiceBasic.class
+com/back/practique/springboot/controllers/UserController.class

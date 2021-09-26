@@ -1,0 +1,17 @@
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/models/Role.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/controllers/RoleController.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/repositories/RoleRepository.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/controllers/UserController.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/repositories/UserRepository.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/interfaces/Role.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/interfaces/User.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/ApplicationConfigurationServiceApplication.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/services/RoleService.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/models/UserStatus.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/responses/Response.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/interfaces/ControllerBasic.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/responses/IResponse.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/responses/ResponseList.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/interfaces/ServiceBasic.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/models/User.java
+/home/ronal/Escritorio/PruebaBrayan/spring-boot-app/src/main/java/com/back/practique/springboot/services/UserService.java

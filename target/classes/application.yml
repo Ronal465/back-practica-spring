@@ -1,0 +1,47 @@
+# See http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+  
+spring:
+  thymeleaf.cache: false
+  application:
+    name: appliacation-back
+  servlet:
+    multipart:
+      max-file-size: 70MB
+      max-request-size: 70MB
+  jackson:
+    date-format: yyyy-MM-dd'T'HH:mm:ss'Z'
+  jpa:
+    hibernate.ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/practica
+    username: root
+    password: PracticaPrueba12345@@@
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+mysql:
+  dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+
+
+server:
+  compression:
+    enabled: true
+  port: 4444
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - health
+          - info
+          - metrics
+          - loggers
+          - httptrace
+          - logfile
+  endpoint:
+    health:
+      show-details: always
+    loggers:
+      enabled: true
